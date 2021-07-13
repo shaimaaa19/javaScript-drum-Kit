@@ -1,3 +1,4 @@
+//drum kit
 const createNode = (nodeType, options, children) => {
   const newElement = document.createElement(nodeType);
   if (options.className) {
